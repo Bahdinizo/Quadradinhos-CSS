@@ -1,0 +1,40 @@
+.azul {
+    display: inline-block;
+    background-color: blue;
+       width: 200px;
+       height: 200px;
+       padding: 0px;
+}
+.teste {
+    width: 1300px;
+        margin-left: 50px;
+        margin-top: 50px;
+        margin-bottom: 25px;
+        display: inline-block;
+ 
+}
+
+
+.vermelho {
+    display: inline-block;
+    background-color: rgb(255, 0, 0);
+       width: 200px;
+       height: 200px;
+       padding: 0px;
+       }
+
+.verde {
+    display: inline-block;
+    background-color: green;
+        width: 200px;
+        height: 200px;
+        padding: 0px;
+}
+.amarelo {
+    display: inline-block;
+    background-color: yellow;
+        width: 200px;
+        height: 200px;
+        padding: 0px;
+}
+
